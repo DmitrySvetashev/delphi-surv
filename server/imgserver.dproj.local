@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.868,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,C:\_Freelance\BigEye\test\server\Unit1.pas=C:\_Freelance\BigEye\test\server\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,C:\_prog\delphi\ScreenSurv\server\full.dfm=C:\_prog\delphi\ScreenSurv\server\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,C:\_Freelance\BigEye\test\server\Unit1.dfm=C:\_Freelance\BigEye\test\server\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,=C:\_prog\delphi\ScreenSurv\server\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\_Freelance\BigEye\test\server\imgserver.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.629,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,C:\_prog\delphi\ScreenSurv\server\full.pas=C:\_prog\delphi\ScreenSurv\server\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.240,C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\_Freelance\BigEye\test\server\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.110,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.240,C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\_Freelance\BigEye\test\server\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.433,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,=C:\Users\Dmitry\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
