@@ -1,2 +1,2 @@
 # delphi
-some delphi apps
+delphi apps for remote surveillance for IT-classrooms 
